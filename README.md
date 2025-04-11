@@ -1,7 +1,7 @@
 # Circular-Linked-List
 Push ---> add a node before self.head
 count_nodes ---> count nodes in a circular linked list
-#Example:
+# Example:
 list1 = CircularLinkedList()  
 list1.push(12) 
 list1.push(56) 
